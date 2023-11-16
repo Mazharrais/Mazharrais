@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazhar Rais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan and Germany...</h3>
-https://media1.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazharrais&label=Profile%20views&color=0e75b6&style=flat" alt="mazharrais" /> </p>
 
